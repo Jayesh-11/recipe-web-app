@@ -24,8 +24,9 @@ function App() {
 
 const Logo = styled(Link)`
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 400;
+  margin-left: 1rem;
   font-family: "Lobster Two";
 `;
 const Nav = styled.div`
